@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
-A simple and interactive software weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public API.
+A simple and interactive software weather app for Android. It gathers data from [OpenWeatherMap](https://openweathermap.org/), via their public [API](https://openweathermap.org/current).
 
 
 ## Features
