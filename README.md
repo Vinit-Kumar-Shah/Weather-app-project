@@ -23,14 +23,14 @@ A simple and interactive software weather app for Android. It gathers data from 
 - [Weekly Matrix](project_documentation/Project_Weekly_Report.pdf)
 
 ## Screenshots
-[<img src="https://imgur.com/r44HulH" width=250>](https://imgur.com/r44HulH)
-[<img src="https://imgur.com/nnYDK3Y" width=250>](https://imgur.com/nnYDK3Y)
-[<img src="https://imgur.com/6bktXR5" width=250>](https://imgur.com/6bktXR5)
-[<img src="https://imgur.com/31x86KH" width=250>](https://imgur.com/31x86KH)
-[<img src="https://imgur.com/WrqB2MQ" width=250>](https://imgur.com/WrqB2MQ)
-[<img src="https://imgur.com/zFqkJwc" width=250>](https://imgur.com/zFqkJwc)
-[<img src="https://imgur.com/zFqkJwc" width=250>](https://imgur.com/zFqkJwc)
 
+![Home](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/357aa8b3-1de3-4cf7-93c1-be6186c8a5c7)
+![About](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/48ba0d77-1eca-42a6-b513-67bd5a946dec)
+![Days_List](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/6bd2c8ba-4117-4b2e-b5c3-fa56939c729d)
+![Location_Search](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/8232cf66-f617-46b2-80cf-6437da777955)
+![Settings](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/d43852b2-fccc-4648-a005-567d3d1b446a)
+![Weather_Graphs-1](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/3b097eea-fe64-400a-80c7-bc9874736c77)
+![Weather_Graphs-2](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/7945cda7-d78b-4299-91bd-17d1d02219fc)
 
 ## Demo
 <img src='android_Code/gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
