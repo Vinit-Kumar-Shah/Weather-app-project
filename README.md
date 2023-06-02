@@ -23,13 +23,13 @@ A simple and interactive software weather app for Android. It gathers data from 
 - [Weekly Matrix](project_documentation/Project_Weekly_Report.pdf)
 
 ## Screenshots
-[<img src="https://imgur.com/r44HulH" width=250>](screenshots/Home.png)
-[<img src="https://imgur.com/nnYDK3Y" width=250>](screenshots/Days_List.png)
-[<img src="https://imgur.com/6bktXR5" width=250>](screenshots/Location_Search.png)
-[<img src="https://imgur.com/31x86KH" width=250>](screenshots/Settings.png)
-[<img src="https://imgur.com/WrqB2MQ" width=250>](screenshots/Weather_Graphs-1.png)
-[<img src="https://imgur.com/zFqkJwc" width=250>](screenshots/Weather_Graphs-2.png)
-[<img src="https://imgur.com/zFqkJwc" width=250>](screenshots/About.png)
+[<img src="https://imgur.com/r44HulH" width=250>](https://imgur.com/r44HulH)
+[<img src="https://imgur.com/nnYDK3Y" width=250>](https://imgur.com/nnYDK3Y)
+[<img src="https://imgur.com/6bktXR5" width=250>](https://imgur.com/6bktXR5)
+[<img src="https://imgur.com/31x86KH" width=250>](https://imgur.com/31x86KH)
+[<img src="https://imgur.com/WrqB2MQ" width=250>](https://imgur.com/WrqB2MQ)
+[<img src="https://imgur.com/zFqkJwc" width=250>](https://imgur.com/zFqkJwc)
+[<img src="https://imgur.com/zFqkJwc" width=250>](https://imgur.com/zFqkJwc)
 
 
 ## Demo
