@@ -33,7 +33,8 @@ A simple and interactive software weather app for Android. It gathers data from 
 ![Weather_Graphs-2](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/7945cda7-d78b-4299-91bd-17d1d02219fc)
 
 ## Demo
-<img src='android_Code/gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+![gif_1](https://github.com/Vinit-Kumar-Shah/Weather-app-project/assets/64884766/212738f6-6dd4-4f28-8958-5dd1f5cd961a)
+
 
 ## How to Run
 ### Method 1: Using the apk file
